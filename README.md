@@ -1,3 +1,3 @@
 # pro
 Admission form for website
-Recreate the database using the database queries in the pro.sql script file.
+Recreate the database using the database queries in the pro.sql script file to insert database into database engine.
